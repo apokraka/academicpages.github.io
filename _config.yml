@@ -82,36 +82,10 @@ author:
   avatar           : "profile.png"
   bio              : "Ph.D. student in theoretical high energy physics at McGill University"
   location         : "Montreal, Canada"
-  employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "andrzej.pokraka@mail.mcgill.ca
   uri              : "https://www.researchgate.net/profile/Andrzej_Pokraka/info"
-  uri              : "https://www.linkedin.com/in/andrzej-pokraka-4068a5152/"
-  bitbucket        : 
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "academicpages"
-  google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
   linkedin         : "https://www.linkedin.com/in/andrzej-pokraka-4068a5152/"
-  orcid            : 
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : 
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
-
 
 # Reading Files
 include:
@@ -246,7 +220,7 @@ sass:
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 
-# Outputting
+# Outputtings
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
