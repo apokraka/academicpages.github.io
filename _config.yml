@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Andrzej Pokraka's Homepage"
 title_separator          : "-"
 name                     : &name "Andrzej Pokraka"
 description              : &description "personal description"
